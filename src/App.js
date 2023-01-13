@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Download, Features, Button, SectionWrapper } from './components'
+import { Download, Features, SectionWrapper } from './components'
 import assets from './assets'
 
 
